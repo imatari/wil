@@ -11,7 +11,7 @@
     - **`\x` expanded display**
         - Is the output from your query too wide? Use this to transpose the output
 
-- The following will take the result from a query and output it to a file named results.csv with the delimiter as a comma and include the header row.
+- The following will take the result from a query and output it to a file named `results.csv` with the delimiter as a comma and include the header row.
 ```sql
 \copy 
     (SELECT *

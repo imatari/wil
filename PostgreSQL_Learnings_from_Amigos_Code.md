@@ -37,9 +37,3 @@ to '/home/user/Desktop/results.csv' delimiter ',' csv header;
     - https://www.postgresqltutorial.com/psql-commands/
 
 
-\copy 
-    (SELECT *
-    FROM person
-    LEFT JOIN car
-        ON car.id = person.car_id) 
-to '/home/matari/Desktop/results.csv' delimiter ',' csv header; 

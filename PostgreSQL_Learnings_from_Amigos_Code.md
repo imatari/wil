@@ -5,7 +5,7 @@
     - https://youtu.be/qw--VYLpxG4
 - Introduced to **https://mockaroo.com**
     - It can produce a table of mock data for you to practice your database query skills on.
-- PSQL Command
+- PSQL Commands
     - **`\i` Execute Commands From a File**
         - example: **`\i /home/user/Desktop/cars.sql`**
     - **`\x` expanded display**

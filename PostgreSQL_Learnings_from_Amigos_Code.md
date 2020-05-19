@@ -1,6 +1,6 @@
 ## Things I learned from the course<br>_and some things outside of the course along the way_
 
-### from the course
+### From the course
 - URL to course
     - https://youtu.be/qw--VYLpxG4
 - Introduced to **https://mockaroo.com**
@@ -25,7 +25,7 @@ to '/home/user/Desktop/results.csv' delimiter ',' csv header;
 - The instructor used draw.io for illustrating a point. (_I like draw.io and it's nice to see others using it too._)
 
 
-### outside the course
+### Outside the course
 - creating a user with admin rights (_in Ubuntu_)
     - https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
 - PSQL Commands
@@ -38,7 +38,7 @@ to '/home/user/Desktop/results.csv' delimiter ',' csv header;
         - A small video I made demonstrating this
             - https://youtu.be/qE-xyPT-ezo
 
-### Practical Resources
+### Practical Resource
 - 17 Practical psql Commands That You Don’t Want To Miss
     - https://www.postgresqltutorial.com/psql-commands/
 

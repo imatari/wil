@@ -21,6 +21,8 @@ docker run --name pg-sandbox `
 -p 5432:5432 `
 --mount source=pg-sb,target=/var/lib/postgresql/data `
 -d postgres
+
+docker exec -it pg-sandbox psql -U matari
 ```
 ### Example 03
 ![Postgres inside Docker][ex03]

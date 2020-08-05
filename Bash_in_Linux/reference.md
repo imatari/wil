@@ -4,6 +4,9 @@
 - list all directories under one directory  
 `ls -d MG/*/`
 
+- list all items under one folder  
+`ls cornetto-trilogy/*`
+
 - find all files that have a filename containing the string **"rea"**  
 `find . -iname '*rea*'`  
 notes:  

@@ -4,7 +4,7 @@
 - list all directories under one directory  
 `ls -d MG/*/`
 
-- list all items under one folder  
+- list all items under one folder recursively  
 `ls cornetto-trilogy/*`
 
 - find all files that have a filename containing the string **"rea"**  

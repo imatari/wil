@@ -1,3 +1,9 @@
+- list only directories  
+`ls -d */`
+
+- list all folders under one folder  
+`ls -d MG/*/`
+
 - find all files that have a filename containing the string 'rea'  
 `find . -iname '*rea*'`  
 notes:  

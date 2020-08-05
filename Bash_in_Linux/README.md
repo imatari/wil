@@ -1,5 +1,5 @@
 # Note
-What I add to `reference.md` will be things I've learned as I go along my Linux journey.  
+What I add to [`reference.md`](./reference.md) will be things I've learned as I go along my Linux journey.  
 It will _not_ be exhaustive.
 
 If after looking at my notes you find that  

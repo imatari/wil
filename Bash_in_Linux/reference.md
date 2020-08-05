@@ -11,7 +11,7 @@
 `find . -iname '*rea*'`  
 notes:  
     - the dot (`.`) means current folder
-    - this instruction will work recursively
     - `-iname` makes the search case insensitive  
+    - this instruction will work recursively
 
 <img src="./images/find.jpg" alt="using the find command" width="600" />

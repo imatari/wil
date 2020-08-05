@@ -4,3 +4,5 @@ notes:
     - the dot (`.`) means current folder
     - this instruction will work recursively
     - `-iname` makes the search case insensitive  
+
+<img src="./images/find.jpg" alt="using the find command" width="600" />

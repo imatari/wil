@@ -4,7 +4,7 @@ It will _not_ be exhaustive.
 
 If after looking at my notes you find that  
 * something could be made more clear _-or-_  
-* that I've spoken incorrectly
+* I've spoken incorrectly
 please let me know : )  
 
 Thanks!  

@@ -1,7 +1,7 @@
 - list only directories  
 `ls -d */`
 
-- list all folders under one folder  
+- list all directories under one directory  
 `ls -d MG/*/`
 
 - find all files that have a filename containing the string 'rea'  
